@@ -178,7 +178,7 @@ return(
         <p className='Habesha kemis'></p>
     </div>
    <div className='flex mt-4'>
-    <div className='ml-1 mr-1 rounded-sm w-1/2'>
+    <div className='ml-1 mr-1 rounded-sm md:w-1/2 w-1/2'>
         <img className='' src='\amarech-ethiopian-traditional.webp'></img>
         < a href='www.google.com' className=''>Amarech Ethiopian</ a>
         < a a href='www.google.com' className=''>20000 Birr</ a>
